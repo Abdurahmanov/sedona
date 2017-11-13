@@ -1,4 +1,4 @@
-# se
+# sedona
 
 > A Vue.js project
 
