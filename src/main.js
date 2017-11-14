@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import '../static/styl/app.styl'
+import '../static/styl/global.styl'
 
 Vue.config.productionTip = false
 
